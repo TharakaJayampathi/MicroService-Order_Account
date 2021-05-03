@@ -1,0 +1,4 @@
+com\sliit\mtit\microservice\accountservice\controller\AccountController.class
+com\sliit\mtit\microservice\accountservice\AccountServiceApplication.class
+com\sliit\mtit\microservice\accountservice\dto\UserResponse.class
+com\sliit\mtit\microservice\accountservice\dto\UserRequest.class
